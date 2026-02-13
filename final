@@ -1,0 +1,230 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VRV PRODUCTS</title>
+    <link rel="stylesheet" href="">
+    <style>
+        body{
+            background-image: url(C:\Users\daval\Downloads\top.jpeg);;
+            background-color: aliceblue;
+            background-position: top;
+        }
+        .mid{
+            font-size: 40px;
+            font-style: bold;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            color:aliceblue;
+            padding-left: 30px;
+            padding: 50px;
+            text-align: center;
+            padding-left: 10px;
+            
+        }
+        .mid1{
+            font-size: 40px;
+            font-style: bold;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            color:rgb(0, 0, 0);
+            padding-left: 30px;
+            padding: 100px;
+            text-align: center;
+            padding-left: 10px;
+            
+        }
+        .top{
+            font-size: 120px;
+            font-style: bold;
+            color:black;
+            text-align: left;
+            padding:30px;
+            border: 20px;
+            
+        }
+        .bgcontainer{
+             background-image: url("https://img.myloview.com/posters/male-accessories-on-dark-grey-background-flat-lay-space-for-text-700-245188649.jpg");
+            background-size: cover;
+            background-repeat: no-repeat;
+          background-attachment: scroll;
+          border-radius:  15px; 
+           opacity: 0.90;
+
+        }
+         .bg-container{
+             background-image: url("https://w0.peakpx.com/wallpaper/719/8/HD-wallpaper-headphone-black-background-music.jpg");
+            background-size: cover;
+            background-repeat: no-repeat;
+          background-attachment: scroll;
+          border-radius:  15px; 
+           opacity: 0.90;
+           position: relative;
+         }
+          .bggg{
+             background-image: url("https://t4.ftcdn.net/jpg/02/80/78/73/360_F_280787323_e2LCjy6BNirxqS4nRWNJ9v5OEdxWuWXO.jpg");
+            background-size: cover;
+            background-repeat: no-repeat;
+          background-attachment: scroll;
+          border-radius:  15px; 
+           opacity: 0.90;
+           position: relative;
+         }
+        .bg-container-1 {
+            background-image: url("https://burst.shopifycdn.com/photos/makeup-and-jewelry.jpg?width=1000&format=pjpg&exif=0&iptc=0");
+            background-size: cover;
+            background-repeat: no-repeat;
+          background-attachment: scroll;
+          background-attachment: fixed;
+        }
+        .bg-container-2 {
+            background-image: url("https://olevsluxury.com/cdn/shop/files/slide-3_d19cbafa-4bfe-4c74-bccf-e4c765cafd14.jpg?v=1632738518");
+            background-size: cover;
+            background-repeat: no-repeat;
+          background-attachment: scroll;
+          border-radius:  15px; 
+           opacity: 0.90;
+        }
+        .bg-container-3 {
+            background-image: url("https://www.darveys.com/blog/wp-content/uploads/2024/06/La-Vie-Est-Belle-by-Lancome-Best-Luxury-Perfumes-for-Women.jpg");
+            background-size: cover;
+            background-repeat: no-repeat;
+          background-attachment: scroll;
+          opacity: 0.90;
+          border-radius:  15px; 
+        }
+        .box{
+            margin:30px;
+           border-radius:15px;
+            padding:0px;
+            border: 2px solid black;
+        }
+        .st{
+           border:0px;
+           margin: 0px;
+           border-radius:10px;
+           padding: 100px;
+           padding-left: 40px;
+        }
+        .st1{
+           border:0px;
+           margin: 0px;
+           border-radius:10px;
+           padding: 300px;
+           padding-left: 40px;
+        }
+        .st1 img{
+            border-radius: 10%;
+            float: left;
+            position:absolute;
+        }
+        .st img{
+            border-radius: 10%;
+            float: left;
+            margin-right: 10px;
+        }
+        .stt img{
+               border-radius: 10%;
+            float: left;
+            margin-right: 10px;
+        }
+        .stt{
+            border:0px;
+           margin: 0px;
+           border-radius:10px;
+           padding: 100px;
+           padding-left: 40px;
+        }
+        .stt p{
+           font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+           font-size: 25px;
+            color: rgb(28, 12, 12);
+             padding: 120px;;
+
+        }
+        .st p{
+            font-family:Georgia, 'Times New Roman', Times, serif;
+            font-size: 25px;
+            color:peachpuff;
+             padding: 100px;
+        }
+        .stt1 img{
+               border-radius: 10%;
+            float: left;
+            margin-right: 10px;
+        }
+         .stt1 p{
+           font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+           font-size: 30px;
+            color: peachpuff;
+             padding: 120px;;
+
+        }
+        .stt1{
+            border:0px;
+           margin: 0px;
+           border-radius:10px;
+           padding: 100px;
+           padding-left: 40px;
+        }
+        .mid1 img{
+            border-radius: 100%;
+            
+        }
+    </style>
+</head>
+<body>
+     <section class="box">
+            <div class="bgcontainer"  >
+         <div class="st">
+     <h1 class="top">VRV PRODUCTS</h1>
+</div>
+</div>
+</section>
+    <div class="box" > <div class="bg-container-1 d-flex flex-column justify-content-center align-items-center"  >
+    <P class="mid">🌟 Accessory Heaven<br>
+🎮 Elevate your style with the <br>🌟 coolest gear!<br>
+🛍️ Curated finds for every vibe<br>
+✨ Unbox your next obsession<br>
+         DM to order🤌</P>
+    </div>
+    </div>
+         <section class="box">
+            <div class="bg-container-2 d-flex flex-column justify-content-center align-items-center"  >
+         <div class="st">
+     <a href="https://olevs.com/products/olevs-automatic-watches-for-men-gold-luxury-dress-wrist-watch-self-winding-mechanical-skeleton-tourbillon-watch-g6678?variant=46204173058352#images-44"> <img src="https://m.media-amazon.com/images/I/616jllf33ZL._UY1000_.jpg" height="400px" ></a> 
+      <p> OLEVS MEN'S WATERPROOF WATCHES STAINLESS STEEL WATCH<br><br>
+Business Casual Nice Men Watches Casual black big face, fashion full steel black band ,best dressed watches for business men. High quality analog quartz men watch with waterproof and chronograph. Fashion tourbillon dial, whether for business men or casual luxury dress, OLEVS nice watch for men are suitable for different styles on different occasions.
+</p>
+</div>
+</div>
+</section>
+<section class="box">
+    <div class="bg-container-3 d-flex flex-column justify-content-center align-items-center" >
+        <div class="stt" >
+    <a href="https://www.parisfragrancesusa.com/products/la-vie-la-belle-by-paris"> <img src="https://marketplace.canva.com/EAGSec-fmik/2/0/1600w/canva-pink-elegant-special-sale-perfume-instagram-post-Uvwn1uyqzaM.jpg" height="500" width="500px" ></a>
+      <p>PARIS FRAGRANCES USA LA VIE LA BÈLLE BY PARIS - 0589<br><br>
+La Vie La Bèlle by Paris is Floral Fruity Fragrance, based or inspired by the original La Vie Est Belle*.
+Notes: Black Currant and Pear; Iris, Jasmine and Orange Blossom; Praline, Vanilla, Patchouli and Tonka Bean.
+     </div>
+    </div>
+     </section>
+      <section class="box">
+            <div class="bg-container"  >
+         <div class="stt1">
+     <a href="https://www.boat-lifestyle.com/products/450-black-panther?srsltid=AfmBOopdyAaVTPG82PHVlJGgRQGFj3uq5I0JOlOIRPI_yi0sMLGpryt0"><img src="https://cdn.shopify.com/s/files/1/0057/8938/4802/files/deks_01.jpg?v=1639985437"height="400px"></a>
+     <p>BOAT ROKERZ 450 PRO <br>boAt Rockerz 450 Pro Wireless Headphone with 40mm Massive Drivers, Mountainous Playback Upto 70 Hours, Asap Charge</p>
+</div>
+</div>
+</section>
+<section class="box">
+            <div class="bggg"  >
+         <div class="mid1">
+            <p>CONTACT US:</p>
+            <a href="https://www.instagram.com/mr_rajesh_version_143/"><img src="https://static.vecteezy.com/system/resources/previews/042/148/632/non_2x/instagram-logo-instagram-social-media-icon-free-png.png" height="125px"width="115px"></a>
+            <a href="https://www.youtube.com/@rajeshdavala5747"><img src="https://static.vecteezy.com/system/resources/thumbnails/023/986/480/small/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png" height="105px" width="105px"></a>
+            <a href=""><img src="https://www.pngall.com/wp-content/uploads/17/Facebook-Logo-Circle-Creation-PNG.png" height="85px" width="115px"></a>
+
+     </div>
+</div>
+</section>
+</body>
+</html>
