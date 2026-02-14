@@ -76,7 +76,7 @@
           background-attachment: fixed;
         }
         .bg-container-2 {
-            background-image: url("https://olevsluxury.com/cdn/shop/files/slide-3_d19cbafa-4bfe-4c74-bccf-e4c765cafd14.jpg?v=1632738518");
+            background-image: url("https://media.istockphoto.com/id/628540774/photo/luxury-watches.jpg?s=612x612&w=0&k=20&c=lUY9ajPS1J1_h-ta-6n2VUIUSWUKVeJeWx_eDVjOc1c=");
             background-size: cover;
             background-repeat: no-repeat;
           background-attachment: scroll;
@@ -139,11 +139,12 @@
             color: rgb(28, 12, 12);
              padding: 120px;;
 
+
         }
         .st p{
             font-family:Georgia, 'Times New Roman', Times, serif;
             font-size: 25px;
-            color:peachpuff;
+            color:rgb(10, 8, 7);
              padding: 100px;
         }
         .stt1 img{
@@ -169,6 +170,12 @@
             border-radius: 100%;
             
         }
+        .box:hover{
+            box-shadow: 4px 8px 15px rgb(223, 156, 156);
+        }
+        .image img:hover{
+            box-shadow : 3px 6px 10px skyblue;
+        }
     </style>
 </head>
 <body>
@@ -187,6 +194,7 @@
          DM to order🤌</P>
     </div>
     </div>
+    <div class="image">
          <section class="box">
             <div class="bg-container-2 d-flex flex-column justify-content-center align-items-center"  >
          <div class="st">
@@ -197,6 +205,8 @@ Business Casual Nice Men Watches Casual black big face, fashion full steel black
 </div>
 </div>
 </section>
+</div>
+<div class="image">
 <section class="box">
     <div class="bg-container-3 d-flex flex-column justify-content-center align-items-center" >
         <div class="stt" >
@@ -207,6 +217,8 @@ Notes: Black Currant and Pear; Iris, Jasmine and Orange Blossom; Praline, Vanill
      </div>
     </div>
      </section>
+     </div>
+     <div class="image">
       <section class="box">
             <div class="bg-container"  >
          <div class="stt1">
@@ -215,6 +227,8 @@ Notes: Black Currant and Pear; Iris, Jasmine and Orange Blossom; Praline, Vanill
 </div>
 </div>
 </section>
+</div>
+<div class="image">
 <section class="box">
             <div class="bggg"  >
          <div class="mid1">
@@ -226,5 +240,6 @@ Notes: Black Currant and Pear; Iris, Jasmine and Orange Blossom; Praline, Vanill
      </div>
 </div>
 </section>
+</div>
 </body>
 </html>
